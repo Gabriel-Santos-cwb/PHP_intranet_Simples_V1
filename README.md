@@ -1,5 +1,7 @@
-Sistema utiliza PHP e Bootstrap 5
+Sistema utiliza PHP, CSS e  Bootstrap 5
+
 É preciso realizar a conexão com o banco de dados estruta na pasta "import banco"
+
 
 Intranet simples para vinculação de outros sistemas ou links, com a funcionalidade de inclusão de avisos
 
