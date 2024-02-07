@@ -1,0 +1,141 @@
+html {
+
+line-height: 1.15;
+-webkit-text-size-adjust: 100%;
+-ms-text-size-adjust: 100%;
+-ms-overflow-style: scrollbar;
+-webkit-tap-highlight-color: rgba(0, 0, 0, 0); 
+}
+
+body {
+margin: 0;
+
+font-size: 1rem;
+font-weight: 200;
+line-height: 1.5;
+text-align: left;
+}
+
+.dev{
+color: #fff;
+text-decoration: none;
+    
+}
+    
+.inicio{
+
+background-color: #545454;
+background-image: linear-gradient(to bottom, rgba(0,0,0,0.2),rgba(0,0,0,0.8));
+height: 80px;
+padding-left: 82%;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+color: black;
+font-family: Times, "Times New Roman", Georgia, serif;
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.segunda-div{
+    /* font-family: Verdana, Arial, Helvetica, sans-serif; */
+    font-family: Times, "Times New Roman", Georgia, serif;
+    background-color: rgb(156, 156, 156);
+    background-image: linear-gradient(to left bottom, #696969, rgba(50, 68, 87, 0.75));
+    height: 20vh; /* 25% da altura da viewport */
+    width: 100%;
+    margin-top: -20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+
+.terceira-div {
+    display: flex;
+    justify-content: center;
+    
+   
+  }
+  
+.terceira-div{
+    
+  
+  }
+  .btn-group {
+    position: relative;
+    padding: 0.5rem;
+   
+  }
+  
+  .dropdown-toggle {
+    background-color: #050c27;
+    color: white;
+
+  }
+  
+  .dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: white;
+    padding: 10px;
+    border: 1px solid #ccc;
+    display: none;
+  }
+  
+  .dropdown-item {
+    display: block;
+    padding: 5px;
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .dropdown-item:hover {
+    background-color: #f5f5f5;
+  }
+  
+  .btn-group:hover .dropdown-menu {
+    display: block;
+  }
+
+  .botoes{
+    background-color:#0d066d; 
+    color: white;
+    border-radius: 0.5rem;
+    height: 70px;
+    width: 250px;
+
+
+  }
+  .quarta-div{
+    
+    height: 51vh; /*  altura da viewport */
+    background-image: url('../Imagens/LOGO.png');  /*  Logo da empresa */
+    background-position:center;
+    background-repeat: no-repeat;
+    
+  }
+
+  .quinta-div{
+    
+    background-color: #545454;
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0.2),rgba(0,0,0,0.8));
+    height: 7vh; /* altura da viewport */
+    color: #fff;
+    justify-content: center;
+    padding-left: 78%;
+    margin-top: 2%;
+   
+    
+  
+  }
+
+
+   
+
+
+
+

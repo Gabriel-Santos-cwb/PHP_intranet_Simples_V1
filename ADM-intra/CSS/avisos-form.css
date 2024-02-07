@@ -1,0 +1,71 @@
+body{
+    background-color: #1b1b1b;
+}
+
+.div-formulario-avisos{
+    background-image: linear-gradient(to left bottom, #DCDCDC, rgba(128,128,128));
+    width: 900px; /*Largura*/
+    height: 630px; /*altura*/
+    margin-left: 5%;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+
+.input-formulario-avisos{
+    width: 80%;
+    height: 35px;
+    border: 1px solid black;
+    border-radius: 5px;
+    
+
+}
+
+.div-formulario-avisos select{
+    width: 80%;
+    height: 35px;
+    border: 1px solid black;
+    border-radius: 5px;
+    
+
+}
+
+.div-formulario-avisos textarea{
+   font-size: 16px;
+   width: 80%;
+   height: 150px;
+   border-radius: 5px;
+
+}
+
+.arquivo{
+    width: 30%;
+    margin-right: 80%;
+    border-radius: 5px;
+    
+    
+}
+
+.label-formulario-avisos{
+ font-size:22px;
+ 
+}
+
+.label-aviso-formulario-avisos{
+    font-size:22px;
+   
+}
+
+.btn-salvar{
+    width: 30%;
+    border-radius: 5px;
+    height: 45px;
+    margin-left: 180px;
+    
+}
+
+.table{
+    max-width: 950px;
+}
